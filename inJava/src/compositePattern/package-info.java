@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author Sadat
+ *
+ */
+package compositePattern;
