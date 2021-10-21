@@ -1,0 +1,19 @@
+{
+  "Companies": [
+    {
+      "Name": "whatever",
+      "CEO": "whoever",
+      "ProfitMargin": "bla"
+    },
+    {
+      "Name": "whatever2",
+      "CEO": "whoever2",
+      "ProfitMargin": "bla bla"
+    },
+    {
+      "Name": "whatever3",
+      "CEO": "whoever3",
+      "ProfitMargin": "bla bla bla"
+    }
+  ]
+}
